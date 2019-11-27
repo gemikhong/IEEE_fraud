@@ -1,2 +1,2 @@
 # IEEE_fraud
-Repository for IEEE Fraud detection competition
+Repository for Kaggle's IEEE Fraud detection competition
